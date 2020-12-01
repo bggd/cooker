@@ -1,0 +1,14 @@
+BasedOnStyle: LLVM
+Standard: c++20
+PointerAlignment: Left
+ColumnLimit: 0
+AllowShortBlocksOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+IndentCaseLabels: true
+#AlwaysBreakAfterReturnType: TopLevelDefinitions
+BreakBeforeBraces: Custom
+BraceWrapping:
+  #AfterFunction: true
+  BeforeCatch: true
+  BeforeElse: true
+SortIncludes: false
