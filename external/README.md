@@ -1,3 +1,3 @@
-cgltf
+cgltf 1.8
 
-nlohmann/json
+nlohmann/json 3.9
